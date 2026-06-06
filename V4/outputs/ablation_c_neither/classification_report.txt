@@ -1,0 +1,18 @@
+Ablation-C: NO Mask Guidance, NO SE Block
+Test Loss     : 1.7006
+Test Accuracy : 0.8350
+Test Macro F1 : 0.7331
+
+              precision    recall  f1-score   support
+
+       akiec     0.8222    0.7551    0.7872        49
+         bcc     0.8452    0.9221    0.8820        77
+         bkl     0.8323    0.7818    0.8063       165
+          df     0.1429    0.8824    0.2459        17
+         mel     0.6245    0.8563    0.7222       167
+          nv     0.9847    0.8330    0.9025      1006
+        vasc     0.6471    1.0000    0.7857        22
+
+    accuracy                         0.8350      1503
+   macro avg     0.6998    0.8615    0.7331      1503
+weighted avg     0.9010    0.8350    0.8580      1503

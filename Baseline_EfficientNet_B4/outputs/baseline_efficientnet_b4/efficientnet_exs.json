@@ -1,0 +1,8 @@
+{
+  "model": "EfficientNet-B4",
+  "exs": 0.1046,
+  "iou": 0.1369,
+  "focus": 0.0724,
+  "entropy": 0.9276,
+  "n_valid": 1503
+}

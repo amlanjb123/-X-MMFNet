@@ -1,0 +1,8 @@
+{
+  "model": "ResNet50",
+  "exs": 0.137,
+  "iou": 0.2178,
+  "focus": 0.0563,
+  "entropy": 0.9437,
+  "n_valid": 1503
+}

@@ -1,0 +1,19 @@
+Baseline: ResNet50
+Backbone: resnet50 (ImageNet pretrained)
+Test Loss     : 1.8303
+Test Accuracy : 0.5802
+Test Macro F1 : 0.6033
+
+              precision    recall  f1-score   support
+
+       akiec     0.6364    0.7143    0.6731        49
+         bcc     0.8023    0.8961    0.8466        77
+         bkl     0.5625    0.8182    0.6667       165
+          df     0.0407    0.7059    0.0769        17
+         mel     0.4031    0.7844    0.5325       167
+          nv     0.9895    0.4682    0.6356      1006
+        vasc     0.7308    0.8636    0.7917        22
+
+    accuracy                         0.5802      1503
+   macro avg     0.5950    0.7501    0.6033      1503
+weighted avg     0.8418    0.5802    0.6356      1503
