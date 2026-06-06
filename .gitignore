@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter/
+
+# Large model files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.ckpt
+*.zip
+
+# Data files (optional - adjust as needed)
+*.csv
+data/
+datasets/
+
+# Output directories
+outputs/
+output/
+results/
+checkpoints/
+checkpoints_*/
+
+# OS
+.DS_Store
+Thumbs.db
